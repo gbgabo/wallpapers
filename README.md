@@ -10,7 +10,7 @@ gabo's collection of
  ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-Some wallpapers I`ve been collecting during time. Enjoy it!
+Some wallpapers I`ve been collecting during time. Enjoy it! (by the way there'll be a lot of purple)
 
 </div>
 
@@ -18,17 +18,17 @@ Some wallpapers I`ve been collecting during time. Enjoy it!
 
 Styles of images varies from monochrome abstract images to fluid vivid color patterns. You can have an idea by checking their file names.
 
-## 🏷️ Image categorization
+## 🏷️ File labelling
 
-Every wallpaper file name has a set of labels that help describe what the image look like. With that principle, you can group specific images styles by filtering their names.
+Every wallpaper filename has a set of labels that help describe what the image looks like. With that principle, you can group specific images styles by filtering their names.
 
-|             Label             |                                              Values                                              | Description |
-| :---------------------------: | :----------------------------------------------------------------------------------------------: | :---------: |
-|            Concept            |                                       `abstract` /`object`                                       |             |
-|        Color Variation        |                                         `color` / `mono`                                         |             |
-|            Shading            |                                    `dark` / `middle`/ `light`                                    |             |
-|          Color Name           |                                    `purple`/ `blue`/`red` ...                                    |             |
-| Identifier and its repetition | `pattern_1` - `fluid_1`, `fluid_2` - `text_1` - `horizon_1` - `shapes_1` - `lines_1` - `space_1` |             |
+|             Label             |                    Values                    |                                       Description                                       |
+| :---------------------------: | :------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|            Concept            |             `abstract` /`object`             |                If it refers to any real object(s) or just abstract forms                |
+|        Color Variation        |               `color` / `mono`               |                            If it's colorful or monochromatic                            |
+|            Shading            |          `dark` / `middle`/ `light`          |                  If the background fits more in a dark or light theme                   |
+|             Color             |          `purple`/ `blue`/`red` ...          |               What is the main color. Used for monochromatic images only                |
+| Identifier and its repetition | `pattern_1`/`fluid_1`/`fluid_2`/`text_1` ... | A main word to describe the image. Followed by a number if it repeats from other images |
 
 ## ℹ️ Quick tip
 
