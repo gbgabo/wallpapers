@@ -47,4 +47,5 @@ sxiv -t -o $HOME/Pictures/wallpapers | xargs xwallpaper --stretch  #Or the wallp
 
 ## ↗️ Check also
 
--
+- [gbgabo/dotfiles](https://github.com/gbgabo/dotfiles): current dotfiles used in my system;
+- [gbgabo/dwm](https://github.com/gbgabo/dwm): own fork of dwm, including many useful patches and own color theme;
